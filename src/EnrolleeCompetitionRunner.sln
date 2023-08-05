@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnrolleeCompetitionRunner.Api", "EnrolleeCompetitionRunner.Api\EnrolleeCompetitionRunner.Api.csproj", "{4175A7ED-44BD-44A2-8CD3-39BD1DA083F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnrolleeCompetitionRunner.Domain", "EnrolleeCompetitionRunner.Domain\EnrolleeCompetitionRunner.Domain.csproj", "{C116A6D6-A29A-436B-B47E-81BA3933F340}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnrolleeCompetitionRunner.Core", "EnrolleeCompetitionRunner.Core\EnrolleeCompetitionRunner.Core.csproj", "{FCD24D2E-9B01-47BA-A4FB-FF2176AD36C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnrolleeCompetitionRunner.Infrastructure", "EnrolleeCompetitionRunner.Infrastructure\EnrolleeCompetitionRunner.Infrastructure.csproj", "{4898C8F6-8736-42EE-BC32-390B17CC4852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnrolleeCompetitionRunner.Contracts", "EnrolleeCompetitionRunner.Contracts\EnrolleeCompetitionRunner.Contracts.csproj", "{D79FA95A-FB8A-47AB-8388-7AD1D2F828A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4175A7ED-44BD-44A2-8CD3-39BD1DA083F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4175A7ED-44BD-44A2-8CD3-39BD1DA083F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4175A7ED-44BD-44A2-8CD3-39BD1DA083F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4175A7ED-44BD-44A2-8CD3-39BD1DA083F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C116A6D6-A29A-436B-B47E-81BA3933F340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C116A6D6-A29A-436B-B47E-81BA3933F340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C116A6D6-A29A-436B-B47E-81BA3933F340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C116A6D6-A29A-436B-B47E-81BA3933F340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD24D2E-9B01-47BA-A4FB-FF2176AD36C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD24D2E-9B01-47BA-A4FB-FF2176AD36C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD24D2E-9B01-47BA-A4FB-FF2176AD36C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD24D2E-9B01-47BA-A4FB-FF2176AD36C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4898C8F6-8736-42EE-BC32-390B17CC4852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4898C8F6-8736-42EE-BC32-390B17CC4852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4898C8F6-8736-42EE-BC32-390B17CC4852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4898C8F6-8736-42EE-BC32-390B17CC4852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79FA95A-FB8A-47AB-8388-7AD1D2F828A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79FA95A-FB8A-47AB-8388-7AD1D2F828A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79FA95A-FB8A-47AB-8388-7AD1D2F828A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79FA95A-FB8A-47AB-8388-7AD1D2F828A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9586314-9903-4206-8950-8174D092CDE7}
+	EndGlobalSection
+EndGlobal
